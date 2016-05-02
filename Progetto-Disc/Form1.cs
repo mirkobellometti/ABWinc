@@ -21,5 +21,6 @@ namespace Progetto_Disc
             
         }
         cristodio[] cristodei = new cristodio[100];
+        int numericogesu=0;
     }
 }
