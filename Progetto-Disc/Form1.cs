@@ -20,5 +20,6 @@ namespace Progetto_Disc
         {
             
         }
+        cristodio[] cristodei = new cristodio[100];
     }
 }
