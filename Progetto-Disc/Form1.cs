@@ -16,5 +16,9 @@ namespace Progetto_Disc
         {
             InitializeComponent();
         }
+        struct cristodio
+        {
+            
+        }
     }
 }
